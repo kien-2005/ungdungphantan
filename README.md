@@ -30,3 +30,5 @@ Hệ thống khởi động thành công với các dịch vụ chính:
 -	PostgreSQL Running.
 -	Worker Running.
 Giao diện Airflow hiển thị đầy đủ các DAG đã xây dựng. Từ giao diện này, người dùng có thể trigger DAG, theo dõi trạng thái task, xem log và kiểm tra lịch sử chạy.
+
+link demo :https://youtu.be/3kzeFM5zoCc
